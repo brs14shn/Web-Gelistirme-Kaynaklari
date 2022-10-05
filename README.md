@@ -6,9 +6,10 @@
 - [React](#react)
 - [Django](#django)
 - [Bootstrap](#bootstrap)
-- [Material_UI](#material)
-- [Git & Github](#git&github)
+- [Material](#material)
+- [GitGithub](#gitgithub)
 - [Linkedln](#linkedln)
+- [Drawing](#drawi̇ng)
 ### HTML
 
 <hr>
@@ -123,7 +124,7 @@
 
 <hr>
 
-### Material_UI 
+### Material 
 
 <hr>
 
