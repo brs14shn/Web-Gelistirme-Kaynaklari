@@ -15,6 +15,7 @@
 
 ### CSS
 - [HTML and CSS flip card templates-24 ](https://freefrontend.com/css-flip-cards/)
+- [CSS Animation](https://animate.style/)
 
 
 <hr>
@@ -30,8 +31,19 @@
 
 - [7 Console Methods You Must Learn, Bet you don’t Know](https://vatsalchauhan.medium.com/7-console-methods-you-must-learn-bet-you-dont-know-e18e33470887)
 
+- [JS | Array Methods You Should Master Today-Shrihari Murali](https://medium.com/@shriharim006/js-array-methods-you-should-master-today-52b4e7f77981)
 
+- [Mert Özen-365 Günde 365 Gönderi - Linkedin ](https://github.com/mrtozn1923/365PostsIn365Days-Linkedin)
 
+<span>JS ile Toastify nasıl yaplılır</span>
+
+ - 1-[Toastify-1](https://github.com/apvarun/toastify-js/blob/master/index.html)
+
+ - 2- [Toastify-2](https://github.com/apvarun/toastify-js#readme)
+
+ <span>JS Scope </span>
+
+ - [JavaScript | Function Scope vs Block Scope](https://tugrulbayrak.medium.com/javascript-scope-65e86de65cff#:~:text=Yaz%C4%B1l%C4%B1m%20geli%C5%9Ftirirken%20de%C4%9Fi%C5%9Fkenlerden%2C%20objelerden%2C%20fonksiyonlardan,bu%20kapsama%20scope%20ad%C4%B1%20verilir.)
 
 <hr>
 
@@ -70,11 +82,27 @@
 
 - ❎ [What is State and how to use it in React?](https://medium.com/@goforindu/what-is-state-and-how-to-use-it-in-react-b04c4fe6bb55)
 
+- ❎  [How to Style Hover in React](https://stackabuse.com/how-to-style-hover-in-react/)
+
+- [React Lazy ve Suspense](https://medium.com/devopsturkiye/react-lazy-ve-suspense-94be7e8b28c)
+
+- [React Hooks Nedir?-Serdar KETENCİ](https://www.serdarketenci.com/react-hooks-nedir/)
+- [React Hooks Nedir? Yeni Başlayanlar İçin Hooks ile React Native’de Kısa Bir Örnek-DAMLAEHİCAN](https://medium.com/@damlaehican/react-hooks-nedir-yeni-ba%C5%9Flayanlar-i%CC%87%C3%A7in-hooks-ile-react-nativede-k%C4%B1sa-bir-%C3%B6rnek-3472b7f11f0c) 
+
+- [What is The Difference Between State and Props in React?](https://eugene-stepnov.medium.comwhat-is-the-difference-between-state-and-props-in-react-e9e6a8a71c4e)
+
+ - [React Hooks Nedir?-Abdulkerim Karaman](https://medium.com/bili%C5%9Fim-hareketi/react-hooks-nedir-9b7545c6c2ff)
+
+ - [React JWT Authentication (without Redux) example](https://www.bezkoder.com/react-jwt-auth/)
+
 #### React projelerini github pages deploy etme!!!
 - ❎ [React Js Projesi nasil github pages ile host edilebilir?-Tarık SAVAS](https://atakansava.medium.com/react-js-projesi-nasil-github-pages-ile-host-edilebilir-88f83a3a7326)
 - ❎[Deploy Simple React App on Github Page Using NPM in Six Steps](https://yumingchang1991.medium.com/deploy-simple-react-app-on-github-page-using-npm-in-six-steps-96d5aab76ed6)
-
 -  ❎ [React dosyalarını githuba deploy etme](https://github.com/gitname/react-gh-pages)
+
+<span>Faker Installion</span>
+
+- [Faker Installion](https://faker.readthedocs.io/en/master/providers/faker.providers.python.html)
 
 
 <hr>
