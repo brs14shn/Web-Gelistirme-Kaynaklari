@@ -6,7 +6,7 @@
 - [React](#react)
 - [Django](#django)
 - [Bootstrap](#bootstrap)
-- [Material UI](#material)
+- [Material_UI](#material)
 - [Git & Github](#git&github)
 - [Linkedln](#linkedln)
 ### HTML
@@ -144,6 +144,6 @@
 - ❎ [Medium.com’da kod alıntı stili kullanımı. (Github Gist)](https://medium.com/5bayt/medium-comda-kod-al%C4%B1nt%C4%B1-stili-nas%C4%B1l-kullan%C4%B1m%C4%B1-github-gist-bff8aba7ddea#:~:text=Sa%C4%9F%20%C3%BCstten%20%2B%20ile%20yeni%20gist,Otomatik%20olarak%20script%20alg%C4%B1layacakt%C4%B1r.)
 
 
-### DRAW
+### DRAWİNG
 
 - ❎ [Proje anlatımında çizimler yapmak için-Whiteboard](https://webwhiteboard.com/)
