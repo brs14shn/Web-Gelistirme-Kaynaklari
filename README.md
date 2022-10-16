@@ -11,6 +11,7 @@
 - [Linkedln](#linkedln)
 - [Drawing](#drawi̇ng)
 
+
 ### HTML
 
 <hr>
@@ -182,6 +183,7 @@
 <hr>
 
 ### Git&Github
+- 📚 [Git Komutları içeren ayrıntılı bir doküman-Alper](https://alba-417.gitbook.io/git-github-notlari/)
 
 <hr>
 
