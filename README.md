@@ -61,7 +61,7 @@
 
 <hr>
 
-### React
+<h3>React</h3>
 
 - ❎ [Advanced React topics — custom hooks ↩️ 💻 👊](https://medium.com/@daboigbae/advanced-react-topics-custom-hooks-%EF%B8%8F-f2a695595090)
 
