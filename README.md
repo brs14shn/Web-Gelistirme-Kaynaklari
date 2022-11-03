@@ -202,3 +202,24 @@
 ### DRAWİNG
 
 - ❎ [Proje anlatımında çizimler yapmak için-Whiteboard](https://webwhiteboard.com/)
+
+### HTML_CSS_JS AND REACT YOUTUBE CHANNELS
+
+- 📷 [Sosyal Bİlişim-React Temelleri](https://www.youtube.com/c/SOSYALB%C4%B0L%C4%B0%C5%9E%C4%B0M)
+- 📷 [HTML-CSS-JS-REACT--YUNUS EŞ](https://www.youtube.com/c/YunusE%C5%9F)
+- 📷 [HTMT-CSS ÖRNEKLER-- YILDIZ DİKME](https://www.youtube.com/c/Y%C4%B1ld%C4%B1zDikme)
+- 📷 [REACT DERSLERİ](https://www.youtube.com/c/ReactDersleri/videos)
+- 📷 [REACT/REACT NATİVE DERSLERİ](https://www.youtube.com/channel/UCLR1815BrF78UoTnFFaLZOw)
+- 📷 [WEB PROGRAMLAMA--SADIK TURAN](https://www.youtube.com/user/sadikturan41)
+- 📷 [SASS_SCSS--YÜCEL ALKAN](https://www.youtube.com/c/Y%C3%BCcelAlkan)
+- 📷 [REACT.JS--UĞUR COŞKUN](https://www.youtube.com/channel/UC_9RryFkxNPJ9TJRq39w4pw)
+- 📷 [REACT.JS-YAZILIM MEKTEBİ](https://www.youtube.com/c/Yaz%C4%B1l%C4%B1mMektebi)
+- 📷 [CSS-ADEM İLTER](https://www.youtube.com/c/AdemIlter)
+- 📷 [REACT.JD-ALİ ÖZKAN](https://www.youtube.com/user/MrThealii)
+- 📷 [WEB PROGRAMLAMA-ARİN YAZILIM](https://www.youtube.com/c/ArinYazilim)
+- 📷 [Html,Css,React-Beta Yazılım Günlüğü](https://www.youtube.com/channel/UC4xi539jsdztcNRtliIbKvA)
+- 📷 []()
+- 📷 []()
+- 📷 []()
+- 📷 []()
+- 📷 []()
